@@ -1,0 +1,7 @@
+{
+    "phone_number": "/html/body/div/div/div[1]/div[2]/main/div/div[2]/form/div[3]/div",
+    "continue_button": "/html/body/div/div/div[1]/div[2]/main/div/div[2]/form/div[4]/button/span/span",
+    "sign_in_button": "/html/body/div/div/div[1]/div[2]/main/div/div[2]/form/div[2]/button/span/span",
+    "like": "encounters-action--dislike",
+    "dislike": "encounters-action--dislike"
+}
